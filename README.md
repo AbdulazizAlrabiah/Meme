@@ -16,5 +16,5 @@ First a blank screen will be displayed with two buttons on the bottom you can ch
 
 ## Contributing
 
-This repository is MemeMe-V2 app for Udacity IOS developer.
+This repository is MemeMe app for Udacity IOS developer.
 
